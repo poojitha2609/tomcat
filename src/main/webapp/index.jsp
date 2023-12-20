@@ -14,6 +14,6 @@
 <body>
   Username:<input id="un"/></br>
   Password:<input type="password" id="pwd"/>
-  <input type="submit" onclick=fun()/>
+  <input type="submit" onclick="fun()"/>
 </body>
 </html>
